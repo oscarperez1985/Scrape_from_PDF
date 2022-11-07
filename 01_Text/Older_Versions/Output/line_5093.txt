@@ -1,0 +1,17 @@
+spmin spmax rcmin rcmax Comment
+2971 2971 1 320 BadshotEarlyfireofguns
+3106 3106 1 320 BadshotEarlysourcefire
+3139 3139 1 320 BadshotEarlysourcefire
+4182 4272 1 24 CrosscurrentnoiseEdittracesduetohighcurrentnoise
+4187 4275 24 40 CrosscurrentnoiseEdittracesduetohighcurrentnoise
+4194 4282 40 55 CrosscurrentnoiseEdittracesduetohighcurrentnoise
+4206 4289 55 68 CrosscurrentnoiseEdittracesduetohighcurrentnoise
+4226 4293 71 91 CrosscurrentnoiseEdittracesduetohighcurrentnoise
+4240 4315 91 118 CrosscurrentnoiseEdittracesduetohighcurrentnoise
+4263 4328 119 140 CrosscurrentnoiseEdittracesduetohighcurrentnoise
+4278 4334 141 165 CrosscurrentnoiseEdittracesduetohighcurrentnoise
+4293 4359 166 192 CrosscurrentnoiseEdittracesduetohighcurrentnoise
+4315 4366 193 213 CrosscurrentnoiseEdittracesduetohighcurrentnoise
+4329 4372 214 232 CrosscurrentnoiseEdittracesduetohighcurrentnoise
+4342 4380 233 248 CrosscurrentnoiseEdittracesduetohighcurrentnoise
+2812 2812 240 320 NoiseNoiseattailofbentcable

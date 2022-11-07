@@ -1,0 +1,2 @@
+spmin spmax rcmin rcmax Comment
+3890 3667 1 320 CurrentNoisestartingatfrontandmovingback

@@ -1,0 +1,6 @@
+spmin spmax rcmin rcmax Comment
+3760 3785 1 100 CurrentnoiseuB
+3786 3799 1 140 CurrentnoiseuB
+3800 3800 1 320 CurrentnoiseNowaffectingmostchannelstosome
+3817 4030 1 320 CurrentnoiseStillaffectingwholestreamerbut
+4030 4030 1 320 Currentnoiseceased

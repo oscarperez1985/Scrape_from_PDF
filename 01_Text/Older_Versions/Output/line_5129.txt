@@ -1,0 +1,2 @@
+spmin spmax rcmin rcmax Comment
+4403 4403 100 120 ObjectstrikingstreamerSpikefromobjectstrikeonthese

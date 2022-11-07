@@ -1,0 +1,7 @@
+spmin spmax rcmin rcmax Comment
+2840 2941 160 320 NoisyTracesTurnnoisestreamerstillinaturn
+2942 2950 260 320 NoisyTracesTurnnoisestreamerstillinaturn
+4433 4434 1 320 GundisabledBadshots
+3735 3735 1 80 CurrentNoiseTracesaffectedBrmsVery
+3752 3752 60 120 CurrentNoiseTracesaffectedBrms
+3802 3802 140 200 CurrentNoiseTracesaffectedBrms

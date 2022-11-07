@@ -1,0 +1,4 @@
+spmin spmax rcmin rcmax Comment
+3546 3545 1 320 BadshotLowpressurecompressordroppedout
+4090 4090 1 320 ShipnoiseFromabeamNoiselevelubar
+3966 3966 1 320 ShipnoiseNolongerapparent

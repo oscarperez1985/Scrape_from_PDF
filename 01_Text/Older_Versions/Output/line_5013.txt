@@ -1,0 +1,7 @@
+spmin spmax rcmin rcmax Comment
+3519 3519 1 50 CurrentNoiseAffectingtracesuptoB
+3550 3550 50 100 CurrentNoiseAffectingtracesuptoB
+3590 3590 1 320 CurrentnoiseNowaffectingtraces
+3615 3615 150 200 CurrentnoiseNowaffectingtracesupto
+3640 3640 190 230 CurrentnoiseNowaffectingtracesupto
+3650 3650 1 320 CurrentnoiseCurrentnoisegone

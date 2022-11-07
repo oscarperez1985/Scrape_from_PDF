@@ -1,0 +1,9 @@
+spmin spmax rcmin rcmax Comment
+3684 3684 1 120 CurrentNoiseuB
+3770 3770 60 160 CurrentNoiseuB
+4163 4163 1 180 ShipnoiseFromAbeamNoiselevelubar
+4219 4219 1 200 ShipnoiseFromAbeamNoiselevelubar
+4248 4248 60 240 ShipnoiseFromAbeamNoiselevelubar
+4282 4282 180 260 ShipnoiseFromAbeamNoiselevelubar
+4300 4300 240 320 ShipnoiseFromAbeamNoiselevelubar
+4310 4310 1 320 Shipnoisenolongerobserved

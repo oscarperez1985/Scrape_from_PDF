@@ -1,0 +1,2 @@
+spmin spmax rcmin rcmax Comment
+2998 2998 1 320 TurnNoiseStreamerstillinturnattailend

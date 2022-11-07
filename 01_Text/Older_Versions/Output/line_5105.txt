@@ -1,0 +1,4 @@
+spmin spmax rcmin rcmax Comment
+3565 3565 1 320 BadshotEarlyfireofguns
+3174 3174 1 320 BadShotEarlyfireofguns
+3114 3114 1 320 BadShotEarlyfireofguns

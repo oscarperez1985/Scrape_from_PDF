@@ -1,0 +1,4 @@
+spmin spmax rcmin rcmax Comment
+4060 4060 1 320 ShipnoiseFromabeamNoiselevelubar
+3980 3980 1 320 ShipnoiseFromabeamslightlyaheadNoiselevel
+3669 3669 1 60 CurrentNoiseuB

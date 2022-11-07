@@ -1,0 +1,2 @@
+spmin spmax rcmin rcmax Comment
+3005 3005 140 150 StreamerhitSomethinggeneratingintermittentspikes

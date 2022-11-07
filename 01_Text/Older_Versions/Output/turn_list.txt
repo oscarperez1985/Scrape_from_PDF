@@ -1,0 +1,18 @@
+List of lines with shots acquired during a vessel turn
+5005
+5021
+5037
+5045
+5065
+5093
+5136A
+5136B
+5148A
+5149
+5172
+5184
+5929
+5939A
+5939
+5942
+5951

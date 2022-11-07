@@ -1,0 +1,14 @@
+spmin spmax rcmin rcmax Comment
+3788 3788 1 40 CurrentNoiseAffectingtracesuBrms
+3807 3807 1 40 CurrentNoiseAffectingtracesuBrms
+3829 3829 20 60 CurrentNoiseAffectingtracesuBrms
+3862 3862 40 120 CurrentNoiseAffectingtracesuBrms
+3875 3875 60 140 CurrentNoiseAffectingtracesuBrms
+3890 3890 80 160 CurrentNoiseAffectingtracesuBrms
+3900 3900 120 180 CurrentNoiseAffectingtracesuBrms
+3910 3910 140 190 CurrentNoiseAffectingtracesuBrms
+3920 3920 150 200 CurrentNoiseAffectingtracesuBrms
+3940 3940 160 220 CurrentNoiseAffectingtracesuBrms
+3950 3950 190 250 CurrentNoiseAffectingtracesuBrms
+3970 3970 230 280 CurrentNoiseAffectingtracesuBrms
+3992 3992 280 310 CurrentNoiseAffectingtracesuBrms

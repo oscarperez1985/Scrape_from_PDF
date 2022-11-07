@@ -1,0 +1,4 @@
+spmin spmax rcmin rcmax Comment
+2962 2962 1 320 Currentnoiseaffectingtraces
+3089 3089 1 320 Currentnoisenowaffectingtraces
+3218 3218 1 320 Currentnoiseceased

@@ -1,0 +1,3 @@
+spmin spmax rcmin rcmax Comment
+2614 2614 1 320 ShipnoiseFromabeamNoiselevelubar
+2680 2680 1 320 ShipnoiseNolongerseen

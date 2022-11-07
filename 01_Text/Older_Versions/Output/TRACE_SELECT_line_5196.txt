@@ -1,0 +1,7 @@
+'Key' 'Use Absolute Value of Key' 'First' 'Last' 'Increment' 'Tolerance' 'Operation to Perform' 'Exclude' 'And/Or'
+'IDENT_NUM' 'NO' 3546 3545 NOT_USED 0 NOT_USED 'NO' 'AND'
+'TRACE_NUM' 'NO' 1 320 NOT_USED 0 NOT_USED 'NO' 'OR'
+'IDENT_NUM' 'NO' 4090 4090 NOT_USED 0 NOT_USED 'NO' 'AND'
+'TRACE_NUM' 'NO' 1 320 NOT_USED 0 NOT_USED 'NO' 'OR'
+'IDENT_NUM' 'NO' 3966 3966 NOT_USED 0 NOT_USED 'NO' 'AND'
+'TRACE_NUM' 'NO' 1 320 NOT_USED 0 NOT_USED 'NO' 'OR'

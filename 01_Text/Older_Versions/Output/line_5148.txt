@@ -1,0 +1,7 @@
+spmin spmax rcmin rcmax Comment
+4110 4110 1 320 BadshotEarlyfireofguns
+2802 2802 1 40 CurrentNoiseAffectingoftracesuB
+2817 2817 1 100 CurrentNoiseAffectingoftracesuB
+2880 2880 40 200 CurrentNoiseAffectingoftracesuB
+3000 3000 180 260 CurrentNoiseAffectingoftracesuB
+3070 3070 1 320 Currentnoiseceased

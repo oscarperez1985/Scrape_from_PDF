@@ -1,0 +1,5 @@
+spmin spmax rcmin rcmax Comment
+3530 3530 1 320 CurrentNoiseAffectingtracespeaksto
+3444 3444 1 320 CurrentnoiseNowaffectingtraces
+3407 3407 1 320 CurrentnoiseNowaffectingtraces
+3299 3299 1 320 Currentnoiseceased

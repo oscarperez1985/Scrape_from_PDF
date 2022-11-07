@@ -1,0 +1,11 @@
+spmin spmax rcmin rcmax Comment
+2971 2971 1 320 EarlyclosureBadshotduetoearlyclosure
+4080 4080 1 320 CurrentNoiseAffectingchannelsRMSuptoB
+4115 4115 1 320 CurrentNoiseAffectingchannelsRMSuptoB
+4130 4130 1 320 CurrentNoiseHittingasecondcurrentbanduptoB
+4150 4150 1 320 CurrentNoiseAffectingchsBand
+4180 4180 1 320 CurrentNoiseAffectingchsandwith
+4220 4220 1 320 CurrentNoiseAffectingchsandwith
+4275 4275 1 320 CurrentNoiseAffectingchsandwith
+4310 4310 1 320 CurrentNoiseAffectingchswithlevelsof
+4350 4350 1 320 CurrentNoiseCurrentnoisenolongerseen

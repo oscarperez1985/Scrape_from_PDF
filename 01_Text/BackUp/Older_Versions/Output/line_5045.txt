@@ -1,7 +1,0 @@
-spmin spmax rcmin rcmax Comment
-3730 3730 1 320 CurrentNoiseBeginsaffectingfrontofstreamer
-3885 3885 60 120 CurrentNoiseAffectingtracesupto
-3935 3935 100 200 CurrentNoiseAffectingtracesupto
-3990 3990 200 300 CurrentNoiseAffectingtracesupto
-4010 4010 1 320 CurrentNoiseCurrentnoisenolongerseen
-4235 4235 1 320 ShipnoiseFromasternNoiselevelubar

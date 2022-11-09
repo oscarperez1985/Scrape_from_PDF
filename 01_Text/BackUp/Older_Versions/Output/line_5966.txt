@@ -1,4 +1,0 @@
-spmin spmax rcmin rcmax Comment
-3181 3181 1 320 Currentnoiseaffectingtraces
-3267 3267 1 320 CurrentnoiseNowaffectingtraces
-3413 3413 1 320 Currentnoiseceased

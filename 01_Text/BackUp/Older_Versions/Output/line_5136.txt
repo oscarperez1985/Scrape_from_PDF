@@ -1,3 +1,0 @@
-spmin spmax rcmin rcmax Comment
-6453 6453 1 320 NoiseSlowspeedownshipnoiseaffecting
-6433 6433 1 320 NoiseOwnshipnoiseaffectingtraces

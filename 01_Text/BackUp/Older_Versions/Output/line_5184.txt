@@ -1,8 +1,0 @@
-spmin spmax rcmin rcmax Comment
-1882 1882 220 260 ShipnoiseFromabeamNoiselevelubar
-1916 1916 1 320 Shipnoisenolongerappearent
-2277 2277 200 320 ShipnoiseFromasternNoiselevelubar
-2317 2317 160 320 ShipnoiseFromasternNoiselevelubar
-2352 2352 1 320 ShipnoiseFromasternNoiselevelubar
-2401 2401 1 320 ShipnoiseFromasternNoiselevel
-2500 2500 1 320 Shipnoisenolongerappearent

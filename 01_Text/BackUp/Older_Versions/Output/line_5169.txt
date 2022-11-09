@@ -1,3 +1,0 @@
-spmin spmax rcmin rcmax Comment
-3990 3990 1 320 Badshotdtnav
-3988 3983 1 320 BadshotdtNavigationsystem

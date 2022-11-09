@@ -1,3 +1,0 @@
-spmin spmax rcmin rcmax Comment
-3427 3427 1 320 ShipnoiseFromaheadNoiselevelubarmoveout
-3405 3405 1 320 Shipnoisenolongerobserved

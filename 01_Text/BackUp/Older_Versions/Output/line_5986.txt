@@ -1,6 +1,0 @@
-spmin spmax rcmin rcmax Comment
-3415 3415 1 60 CurrentNoiseAffectingtracesuBrms
-3422 3422 60 120 CurrentNoiseAffectingtracesuBrms
-3460 3460 100 160 CurrentNoiseAffectingtracesuBrms
-3485 3485 140 240 CurrentNoiseAffectingtracesuBrms
-3495 3495 140 240 CurrentNoiseCurrentnoisegone

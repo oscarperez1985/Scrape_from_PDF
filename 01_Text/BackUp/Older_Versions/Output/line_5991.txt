@@ -1,2 +1,0 @@
-spmin spmax rcmin rcmax Comment
-3330 3290 1 60 CurrentNoiseVeryslightcurrentnoiseaffectedonly
